@@ -2,8 +2,8 @@
   "name": "extensive_typescript",
   "version": "1.0.0",
   "description": "",
-  "main": "build/app",
-  "types": "build/app",
+  "main": "build/app.js",
+  "types": "build/app.ts",
   "scripts": {
     "server:start": "node src/app.ts",
     "build": "tsc",
